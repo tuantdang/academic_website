@@ -1,0 +1,34 @@
+- title: Teaching Pendant 7 inches - TP7
+  image: tp7hw2.jpg
+  description: A touching based Teaching Pendant that is used to teach robot works. It written in C++ with hardware powered in pure Linux (kernel only, without GUI likes Ubuntu or Fedora,...). The project's challenge is to re-create GUI from scratch on the top of Linux system call. This is because TP7 uses low-end CPU and need to reponse to quick user's behaviors. It also supports 3D view under OpenGL ES 3.0 core profile API.
+  url: PRC_7TP_UserManual_KOR_V1.0.pdf
+
+- title: Teaching Pendant Simulator for Windows
+  image: tp7sim.jpg
+  description: A software that simulates Teaching Pendant 7 inches on Windows PC so that user can play around with functions of TP before deciding to buy it.
+
+
+- title: Oscilloscope
+  image: scope.jpg
+  description: This scope connects to controller via TCP/IP to acquire the real-time raw data and view with many analysis functionalities like physical Oscilloscope.
+
+- title: Teaching Pendant 3.5 inches
+  image: tp3.jpg
+  description: This low-end Teaching Pendant and written in pure C on MCU Coretex M4 (STM32F429, 180MHz, 256KB RAM) with TFT 320x240 LCD.
+  url: PRC_3.5TP_UserManual_KOR_V1.0.pdf
+
+- title: GUI PC for Robot Controller
+  image: prcmanager.jpg
+  description: This software give user the first hand to work with robot controller in Visual Studio-like  Windows environment.
+
+- title: Samsung SDC Mark-III
+  image: sdc.jpg
+  description: Robot Controller for Samsung SDC project that uses EtherCat technology.
+
+- title: Acontis EcMaster Porting
+  image: ecmaster.jpg
+  description: My work is to port EcMaster stack with different Operating System (VxWorks, RT Linux, Xenomai, TI SYS/BIOS, Hypervior - Linux in Windows (LxWin), On-time OS 32 in Win (EcWin)) and different CPU architecture (x86, x64, ARM7, ARM15), then make demo application for support customers like Samsung, Hyundai, Hanwha, Fastech, AjinTech,...
+
+- title: EtherCat Slave IO
+  image: ecio.jpg
+  description: Digital & Analog Input/Output devices that are based on EtherCat technology. I worked on a feature named Enhanced Link Detection that needs internal communication between MCU PIC24 and ET1100.

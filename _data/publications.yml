@@ -1,0 +1,56 @@
+
+- title:  Multiplanar Self-Calibration for Mobile Cobot 3D Object Manipulation using 2D Detectors and Depth Estimation 
+  authors: <strong>Tuan Dang</strong>, Khang Nguyen, Manfred Huber
+  conference_short: IROS-2023
+  conference:  IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong> 2023.
+  pdf: assets/papers/calib.pdf
+  code: https://github.com/tuantdang/calib_cobot
+  # bibtex: https://bib.yliu.me/MICCAI23.txt
+  image: iros23-calib.png
+  # notes: Early Accept
+  video: https://youtu.be/KrDJ22rvOAo
+
+
+- title:   Online 3D Deformable Object Classification for Mobile Cobot Manipulation  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  authors: Khang Nguyen, <strong>Tuan Dang</strong>, Manfred Huber
+  conference_short: ISR 2023
+  conference:  International Symposium on Robotics <strong>(ISR)</strong> 2023.
+  pdf: assets/papers/deformable.pdf
+  code: https://github.com/mkhangg/deformable_cobot
+  # bibtex: https://bib.yliu.me/MICCAI23.txt
+  image: isr23-deformable.png
+  # notes: Early Accept
+  video: https://youtu.be/qkgi3T6xYzI
+
+- title:   PerFc &#58; An Efficient 2D and 3D Perception Software-Hardware Framework for Mobile Cobot
+  authors: <strong>Tuan Dang</strong>, Khang Nguyen,  Manfred Huber
+  conference_short: FLAIRS 2023
+  conference:   International Florida Artificial Intelligence Research Society Conference <strong>(FLAIRS)</strong> 2023
+  pdf: https://arxiv.org/pdf/2306.04853.pdf
+  code: https://github.com/tuantdang/perception_framework
+  # bibtex: https://bib.yliu.me/MICCAI23.txt
+  image: flairs23-perfc.png
+  # notes: Early Accept
+  video: https://youtu.be/q4oz9Rixbzs
+
+- title:   Development of a Smart Portable Hypoxic Chamber with Accurate Sensing, Control and Visualization of In Vitro Cell Culture for Replication of Cancer Microenvironment
+  authors: Harish Ramachandramoorthy (¥), <strong>Tuan Dang</strong> (¥), Ankitha Srinivasa, Kytai T. Nguyen and Phuc Nguyen
+  conference_short: MDPI 2023
+  conference:   The Development of Effective Therapy Targeting the Microenvironment of Cancer
+  pdf: https://www.mdpi.com/2072-6694/15/14/3645
+  # code: https://github.com/tuantdang/perception_framework
+  # bibtex: https://bib.yliu.me/MICCAI23.txt
+  image: mdpi23-hypoxia.png
+  notes: (¥ -  Authors contributed equally)
+
+- title:    IoTree &#58; A Battery-free Wearable System with Biocompatible Sensors for Continuous Tree Health Monitoring
+  authors: <strong>Tuan Dang</strong>, Trung Tran, Khang Nguyen, Tien Pham, Nhat Pham, Tam Vu, Phuc Nguyen
+  conference_short: MOBICOM 2022
+  conference:  The 28th Annual International Conference On Mobile Computing And Networking <strong>(MOBICOM)</strong> 2022
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3495243.3567652
+  code: https://github.com/tuantdang/iotree
+  # bibtex: https://bib.yliu.me/MICCAI23.txt
+  image: mobicom22-iotree.png
+  # notes: (¥ -  Authors contributed equally)
+  video: https://youtu.be/8DUfOcuPwIk
+

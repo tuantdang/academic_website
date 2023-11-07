@@ -1,0 +1,52 @@
+# Basic Information 
+title: Tuan Dang
+# position: Ph.D. Student
+affiliation: University Texas at Arlington
+affiliation_link: https://www.uta.edu/
+email: tuan.dang@uta.edu
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Tuan Dang
+description: 3D perception and manipluation
+canonical: https://tuan.dang.info
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=IEvlMosAAAAJ&hl=en
+cv_link: assets/files/cv.pdf
+github_link: https://github.com/tuantdang
+linkedin: https://www.linkedin.com/in/tuan-dang-b129b473/
+# twitter: https://twitter.com/
+portfolio: /portfolio.html
+researchgate: https://www.researchgate.net/profile/Tuan-Dang-25
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.ico
+# favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Sans Serif" # or "Sans Serif"
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
+
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - minimal-light.gemspec
