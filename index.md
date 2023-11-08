@@ -8,7 +8,11 @@ layout: default
       <h3 class="mb-0">News</h3> <br>
       <ul>
       {% for item in site.data.news %}
-        <li><strong>{{item.date}} : </strong> {{item.event}}</li>
+        {% if item.link%}
+          <li><strong>{{item.date}} : </strong> <a href="{{item.link}}"> {{ item.event }}</a></li>
+        {% else %}
+          <li><strong>{{item.date}} : </strong> {{ item.event }}</li>
+        {% endif %}
       {% endfor %}
       </ul>
     </div>

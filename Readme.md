@@ -28,7 +28,7 @@ Now, you can use Jekyll locally as a website (static) generator on your laptop.
 ### Clone the repository
 
 ```
-git clone https://github.com/tuantdang/academic-website.git
+git clone https://github.com/tuantdang/academic_website.git
 cd academic-website
 ```
 
