@@ -44,7 +44,7 @@
       <div class="row" >
         <div class="col-md-4 px-0">
           <div class="row justify-content-center" >
-            <a href="/"><img class="rounded-circle" alt="avatar1" src="assets/img/avatar.jpg" style="width: 150px; height: 150px;" /></a>
+            <a href="/"><img class="rounded-circle" alt="avatar1" src="assets/img/avatar.jpg" style="width: 150px; height: 150px;" alt="alternative text" title="Home"/></a>
           </div>
           <br>
           <div class="row  justify-content-center" >
@@ -62,21 +62,20 @@
           <div class="row justify-content-center" >
             <span class="actions">
               <!-- https://jpswalsh.github.io/academicons/ -->
-              <ul>
-                <li><a href="{{site.google_scholar}}"> <i class="ai ai-google-scholar-square ai-2x  mr-1""></i></a></li>
-                <li><a href="{{site.researchgate}}"><i class="ai ai-researchgate-square ai-2x  mr-1""></i></a></li>
-                <li><a href="{{site.cv_link}}"><i class="ai ai-cv ai-2x"></i></a></li>
-                
+              <ul  class="px-0">
+                <li><a href="{{site.google_scholar}}"> <i class="ai ai-google-scholar-square ai-2x  mr-1"  alt="alternative text" title="Google Schoolar"></i></a></li>
+                <li><a href="{{site.researchgate}}"><i class="ai ai-researchgate-square ai-2x  mr-1" alt="alternative text" title="Research Gate"></i></a></li>
+                <li><a href="{{site.cv_link}}"><i class="ai ai-cv ai-2x"  alt="alternative text" title="CV/Resume"></i></a></li>
               </ul>
             </span>
           </div>
 
           <div class="row justify-content-center" >
             <span class="actions">
-              <ul>
-                <a class="btn btn-default btn-github mr-1" href="{{site.github_link}}">;&nbsp;</a>
-                <a class="btn btn-default btn-linkedin mr-1" href="{{site.linkedin}}">&nbsp;</a>
-                <a class="btn btn-default btn-portfolio" href="{{site.portfolio}}" alt="Portfolio">&nbsp;</a>
+              <ul class="px-0">
+                <a href="{{site.github_link}}" class="my-button mr-1" data-tooltip="Github" ><img src="assets/img/github.png" class="btn-icon"/></a>
+                <a href="{{site.linkedin}}" class="my-button mr-1" data-tooltip="Linkedin" ><img src="assets/img/linkedin.png"  class="btn-icon"/></a>
+                <a href="{{site.portfolio}}" class="my-button" data-tooltip="Portfolio" ><img src="assets/img/portfolio.png"  class="btn-icon"/></a>
               </ul>
             </span>
           </div>
@@ -87,7 +86,7 @@
             <h4 class="mb-0">Introduction</h4> <br>
             <p class="mb-0">I’m working on a Rosie robot (Baxter-based robot), a combination of two 7-DOF arms and AGVs as its base. Rosie is equipped with three distributed computers, five cameras and a Velodyne Lidar. The robot is powered by a battery and wirelessly communicates with other computing devices (mobile/PC/laptop) for monitoring and controlling tasks. The project aims to teach this robot to learn its environment and perform service tasks safely.</p>
             <br>
-            <h5 class="mb-0">Interests</h5>
+            <h5 class="mb-0">Interests</h5> <br>
             <ul class="mb-0">
               <li><strong>3D perception</strong>: 3D object recognition and detection</li>
               <li><strong>Object manipluation</strong>: Tracking objects in 3D and control</li>
